@@ -634,6 +634,7 @@
 - [Dimitrije Ilic](https://github.com/Dimitrije1970)
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Martarion](https://github.com/Martarion-Code)
+- [mohammad shoaib](https://github.com/Shoaibxaif)
 - [Martins Ngene](https://github.com/Martinsngene)
 - [vishal dhavale](https://github.com/vishu1893)
 - [Subhajit Mahata](https://github.com/subhajitkp007)
@@ -721,5 +722,5 @@
 - [hhwe](https://github.com/hhwe)
 - [Sumon Chandra](https://github.com/sumon-chandra)
 - [Nour Elhamshary](https://github.com/Nour-Elhamshary)
-- [mohammad shoaib](https://github.com/Shoaibxaif)
+
 <!-- prettier-ignore-end -->
